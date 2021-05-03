@@ -6,8 +6,8 @@ url = ''
 
 GPIO.setmode(GPIO.BCM)
 
-TRIG = 23
-ECHO = 24
+TRIG = 25
+ECHO = 26
 
 print('Distance measurement in progress')
 
